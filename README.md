@@ -1,2 +1,1 @@
-# Elenore
-Elenore - Multi-use Discord Bot.
+[![Run on Repl.it](https://repl.it/badge/github/saedmp/spam-pls1)](https://repl.it/github/saedmp/spam-pls1)
